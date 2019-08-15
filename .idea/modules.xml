@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SparkSteraming.iml" filepath="$PROJECT_DIR$/SparkSteraming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-canal/dw-canal.iml" filepath="$PROJECT_DIR$/dw-canal/dw-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dwlogger/dwlogger.iml" filepath="$PROJECT_DIR$/dwlogger/dwlogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock/mock.iml" filepath="$PROJECT_DIR$/mock/mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publisher/publisher.iml" filepath="$PROJECT_DIR$/publisher/publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/real-time/real-time.iml" filepath="$PROJECT_DIR$/real-time/real-time.iml" />
+    </modules>
+  </component>
+</project>

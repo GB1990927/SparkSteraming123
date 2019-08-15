@@ -1,0 +1,20 @@
+2019-08-12 20:34:10.691  INFO 17736 --- [main] c.atguigu.dwlogger.DwloggerApplication   : Starting DwloggerApplication on DESKTOP-G33U1ME with PID 17736 (D:\GIT\SparkSteraming\dwlogger\target\classes started by gaobing in D:\GIT\SparkSteraming)
+2019-08-12 20:34:10.699  INFO 17736 --- [main] c.atguigu.dwlogger.DwloggerApplication   : No active profile set, falling back to default profiles: default
+2019-08-12 20:34:13.068  INFO 17736 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.kafka.annotation.KafkaBootstrapConfiguration' of type [org.springframework.kafka.annotation.KafkaBootstrapConfiguration$$EnhancerBySpringCGLIB$$5aad7a0e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-12 20:34:13.630  INFO 17736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2019-08-12 20:34:13.691  INFO 17736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-12 20:34:13.692  INFO 17736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-12 20:34:13.921  INFO 17736 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-12 20:34:13.921  INFO 17736 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2934 ms
+2019-08-12 20:34:14.340  INFO 17736 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-12 20:34:14.748  INFO 17736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2019-08-12 20:34:14.752  INFO 17736 --- [main] c.atguigu.dwlogger.DwloggerApplication   : Started DwloggerApplication in 4.844 seconds (JVM running for 7.357)
+2019-08-12 20:34:58.262  INFO 17736 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-12 20:34:58.262  INFO 17736 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-08-12 20:34:58.269  INFO 17736 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-08-12 20:34:58.293  INFO 17736 --- [http-nio-8888-exec-1] controller.Demo                          : hhhhhhhhh
+2019-08-12 20:34:58.670  INFO 17736 --- [http-nio-8888-exec-3] controller.Demo                          : hhhhhhhhh
+2019-08-12 20:34:58.901  INFO 17736 --- [http-nio-8888-exec-4] controller.Demo                          : hhhhhhhhh
+2019-08-12 20:34:59.211  INFO 17736 --- [http-nio-8888-exec-6] controller.Demo                          : hhhhhhhhh
+2019-08-12 20:34:59.416  INFO 17736 --- [http-nio-8888-exec-8] controller.Demo                          : hhhhhhhhh
+2019-08-12 20:35:00.205  INFO 17736 --- [http-nio-8888-exec-9] controller.Demo                          : hhhhhhhhh
